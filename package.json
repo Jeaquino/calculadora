@@ -1,0 +1,20 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "app calculadora que me permite sumar, restar, dividir y multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "suma",
+    "resta"
+  ],
+  "author": "J. Aquino",
+  "license": "ISC",
+  "dependencies": {
+    "calculadora": "file:",
+    "prompt": "^1.3.0"
+  }
+}

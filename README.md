@@ -1,5 +1,5 @@
 Contribuidores:
-* Adres Pinto
-* Luis Curzi
-* Lucas Curzi, 18 años, San Miguel, Gamer xd
-* J. Aquino
+* Andres Pinto, 43 años, San miguel Ajecrecista y OGamer
+* Luis Curzi, 21 años, San Miguel, Deportista/ Gamer HINCHA DE RACING
+* Lucas Curzi
+* J. Aquino, Edad 34, Hincha de ...

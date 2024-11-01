@@ -2,6 +2,8 @@ const sumar = require("./modules/sumar");
 const restar = require("./modules/restar");
 const multiplicar = require("./modules/multiplicar");
 const dividir = require("./modules/dividir");
+const raiz = require("./modules/raiz");
+const potencia = require("./modules/potencia");
 
 const prompt = require("prompt-sync")();
 
@@ -9,7 +11,9 @@ console.log(`Bienvenido, a la calculadora. Esta aplicacion le permite realizar l
     1* Sumar
     2* Restar
     3* Dividir
-    4* Multiplicar`);
+    4* Multiplicar
+    5* Raíz
+    6* Potencia`);
 
 let operacion = prompt("Seleccione alguna de las opciones para operar: ", null);
 
@@ -45,6 +49,9 @@ if (
       break;
     case 5:
       console.log(raiz(num1, num2));
+      break;
+    case 6:
+      console.log(potencia(num1, num2));
       break;
     default:
       console.log(
